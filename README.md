@@ -1,7 +1,7 @@
 # Translator
 ## Get Started
 ### Steup
-Connect your region:
+#### 1/2 Connect your region
 
 Available in 3 regions.
 
@@ -9,7 +9,10 @@ Please enter a pipe to instead a region. is three digit-text. Example: `ENG|USA`
 
 Correct: `XXX` or `XXX|XXX`
 
-### Support Countries
+#### 2/2 Steup your javascript file
+Beats copy on:
+
+### Support Regions
 | Name | 2-digit | 3-digit | Calling Code | Format |
 |------|---------|---------|--------------|--------|
 | Brazil | BR | BRA | +55 | POR[P]BRA |
