@@ -5,6 +5,13 @@
 var translator = [
     "country|region",
     [
-        ["af_af", "Afrikaans", "Afrikaans"]
+        [
+            "language",
+            "english",
+            "current language",
+            [
+                "translator content"
+            ]
+        ]
     ]
 ]

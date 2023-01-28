@@ -10,7 +10,7 @@ Please enter a pipe to instead a region. is three digit-text. Example: `ENG|USA`
 Correct: `XXX` or `XXX|XXX`
 
 #### 2/2 Steup your javascript file
-Beats copy on:
+Beats copy on: example.js
 
 ### Support Regions
 | Name | 2-digit | 3-digit | Calling Code | Format |
